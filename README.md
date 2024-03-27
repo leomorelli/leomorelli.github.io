@@ -20,9 +20,9 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Publications
 
-- Morelli L. et al, [Nested Stochastic Block Models applied to the analysis of single cell data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04489-7)
-- Tedesco M. et al, [Chromatin Velocity reveals epigenetic dynamics by single-cell profiling of heterochromatin and euchromatin](https://www.nature.com/articles/s41587-021-01031-1)
-- Michelatti D. et al, [Oncogenic enhancers prime quiescent metastatic cells to escape NK immune surveillance by eliciting transcriptional memory](https://www.nature.com/articles/s41467-024-46524-0)
+- Morelli L. et al, Nested Stochastic Block Models applied to the analysis of single cell data, 2021, [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04489-7)
+- Tedesco M. et al, Chromatin Velocity reveals epigenetic dynamics by single-cell profiling of heterochromatin and euchromatin, 2022, [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01031-1)
+- Michelatti D. et al, Oncogenic enhancers prime quiescent metastatic cells to escape NK immune surveillance by eliciting transcriptional memory, 2024, [Nature Communications](https://www.nature.com/articles/s41467-024-46524-0)
 <footer>
 
 <!--
